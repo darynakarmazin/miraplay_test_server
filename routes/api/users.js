@@ -8,14 +8,8 @@ router.post("/register", ctrl.register);
 
 router.post("/login", ctrl.login);
 
-router.post("/logout", async (req, res, next) => {
-  res.json({ message: "template message" });
-});
+router.post("/logout", auth, ctrl.logout);
 
 router.get("/current", auth, ctrl.getCurrent);
-
-router.patch("/", async (req, res, next) => {
-  res.json({ message: "template message" });
-});
 
 module.exports = router;
