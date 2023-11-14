@@ -1,6 +1,28 @@
-### Команди:
+# miraplay_test_server
 
-- `npm start` &mdash; старт сервера в режимі production
-- `npm run start:dev` &mdash; старт сервера в режимі розробки (development)
-- `npm run lint` &mdash; запустити виконання перевірки коду з eslint, необхідно виконувати перед кожним PR та виправляти всі помилки лінтера
-- `npm lint:fix` &mdash; та ж перевірка лінтера, але з автоматичними виправленнями простих помилок
+Backend part for Full-stack application test task 'miraplay'. Deployed on render.com
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+### `npm run start:dev`
+
+### `npm run lint`
+
+### `npm lint:fix`
+
+## Learn More
+
+Teclology stack [Node.js, Express, MongoDb, mongoose, jsonwebtoken, joi, bcryptjs]
+
+Deployed on render.com
+![Deployed render](https://github.com/darynakarmazin/miraplay_test_server/raw/main/view/img-1.png)
+
+Data base MongoDB
+![Data base](https://github.com/darynakarmazin/miraplay_test_server/raw/main/view/img-2.png)
+
+Tested on Postman
+![Favorutes page](https://github.com/darynakarmazin/miraplay_test_server/raw/main/view/img-3.png)
