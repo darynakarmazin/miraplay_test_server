@@ -19,10 +19,10 @@ In the project directory, you can run:
 Teclology stack [Node.js, Express, MongoDb, mongoose, jsonwebtoken, joi, bcryptjs]
 
 Deployed on render.com
-![Deployed render](https://github.com/darynakarmazin/miraplay_test_server/raw/main/view/img-1.png)
+![Deployed render](https://github.com/darynakarmazin/miraplay_test_server/raw/main/views/img-1.png)
 
 Data base MongoDB
-![Data base](https://github.com/darynakarmazin/miraplay_test_server/raw/main/view/img-2.png)
+![Data base](https://github.com/darynakarmazin/miraplay_test_server/raw/main/views/img-2.png)
 
 Tested on Postman
-![Favorutes page](https://github.com/darynakarmazin/miraplay_test_server/raw/main/view/img-3.png)
+![Favorutes page](https://github.com/darynakarmazin/miraplay_test_server/raw/main/views/img-3.png)
